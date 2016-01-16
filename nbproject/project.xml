@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>APPS</name>
+            <explicit-platform explicit-source-supported="true"/>
+            <source-roots>
+                <root id="src.dir"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir"/>
+            </test-roots>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>ada</word>
+            <word>awal</word>
+            <word>banyak</word>
+            <word>baris</word>
+            <word>dan</word>
+            <word>dari</word>
+            <word>jumlah</word>
+            <word>ke</word>
+            <word>kolom</word>
+            <word>koneksi</word>
+            <word>Melakukan</word>
+            <word>Memasukkan</word>
+            <word>Menambahkan</word>
+            <word>Mendapatkan</word>
+            <word>Menghapus</word>
+            <word>nama</word>
+            <word>nilai</word>
+            <word>pada</word>
+            <word>perubahan</word>
+            <word>sebuah</word>
+            <word>tabel</word>
+            <word>tertentu</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
