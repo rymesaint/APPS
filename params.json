@@ -1,0 +1,6 @@
+{
+  "name": "Apps",
+  "tagline": "Aplikasi Pengelolaan Profil Pengajar Dan Staf",
+  "body": "# A.P.P.S\r\n> Aplikasi Pengelolaan Profil Pengajar Dan Staf merupakan sebuah aplikasi untuk mengelola profil pengajar berdasarkan mata pelajaran yang di ikuti.\r\n\r\n##Fitur\r\n- Pengajar dapat mencetak jadwal berdasarkan pengajar.\r\n- Pengajar dapat mencetak riwayat ajaran berdasarkan tahun ajar maupun pengajar.\r\n- Admin dapat mengelola akun dan menambahkan profil pengajar dan staf.\r\n- Admin dapat mengubah profil pengajar atau staf yang dipilih.\r\n- Admin dapat menambahkan jadwal pelajaran berdasarkan nip pengajar terkait.\r\n\r\n##Minimum Kebutuhan/Requirement\r\n- JDK/JRE 1.7.0/1.8.0 atau lebih\r\n- MySQL\r\n\r\n##Kontributor\r\n- [Muhamad Ridwan Fauzan](https://www.facebook.com/iponks.eswete)   (Programmer)\r\n- Yuggi Rienaldi          (Ketua)\r\n- Rahayu Tiurna Andini    (Desainer)\r\n- Rizki Muharram          (Tester)\r\n- Wiwi Kurniawati         (Analisis)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
